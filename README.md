@@ -6,7 +6,7 @@
 This project carries out a deep learning pipeline for binary classification of chest X-ray images into the categories of Pneumonia and Normal. It employs the dual-branch Siamese Neural Network (SNN) architecture for comparison between the left and right lung views by utilizing paired processing. The model augments texture information by incorporating Local Binary Patterns (LBP) to capture radiographic differences between healthy lungs and infected ones.
 
 
-Key features of the project:
+Key features of the project:-
 
 - 🧠 DenseNet-based Siamese Network for dual-lung embedding comparison
 
