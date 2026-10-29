@@ -23,8 +23,6 @@ Key features of the project:-
 - 🧪 Evaluation metrics including accuracy and confusion matrix
 
 ## Authors
-
-- [@Ankit Garg](https://www.linkedin.com/in/ankitagg98/)
+- Pratyusha Mishra
 - [@Vishesh Panghal](https://www.linkedin.com/in/vishesh-panghal/)
-- [@Rabi Shaw](https://www.linkedin.com/in/rabishaw505/)
 
